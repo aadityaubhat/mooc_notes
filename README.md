@@ -9,3 +9,8 @@ A repository to store all my notes of various MOOCs (Massive Open Online Courses
     - [YouTube Playlist](https://www.youtube.com/watch?v=C1lhuz6pZC0&list=PLUl4u3cNGP619EG1wp0kT-7rDE_Az5TNd)
     - [Notes](https://github.com/aadityaubhat/mooc_notes/blob/master/Introduction%20to%20Computational%20Thinking%20and%20Data%20Science.ipynb)
     - Topics covered : Dynamic Programming, Memoization, Optimization Models, Graph Models, BFS, DFS, Central Limit Theorem, Confidence Interval, Curve Fitting, Clustering, Logistic Regression, Classification, Statistical sins.
+
+2. Google ML Crash Course - ML Concepts
+    - [Course Link](https://developers.google.com/machine-learning/crash-course/ml-intro)
+    - [Notes](https://github.com/aadityaubhat/mooc_notes/blob/master/Google%20ML%20Crash%20Course%20-%20ML%20Concepts.ipynb)
+    - Topics covered : ML Terminology, Regression, Logistic Regression, Regularization, Neural Networks, Embeddings, TensorFlow
